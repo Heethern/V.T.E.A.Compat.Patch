@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_parent_bowl",
+  "textures": {
+    "layer0": "eatinganimationid:item/suspicious_stew_eating_1"
+  }
+}

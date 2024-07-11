@@ -1,0 +1,3 @@
+Credits go to...
+	Vanilla Tweaks: https://vanillatweaks.net
+	Eating Animation: https://github.com/Theoness1/EatingAnimation
